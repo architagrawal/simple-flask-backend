@@ -1,0 +1,5 @@
+# Update pip to the latest version
+pip==24.0
+
+# Install Flask
+Flask
