@@ -1,6 +1,6 @@
 # CVE Management Web Application
 
-This is a Flask web application that interacts with a SQLite database to manage CVE (Common Vulnerabilities and Exposures) records.
+This is a Flask web application that interacts with a SQLite database to manage CVE (Common Vulnerabilities and Exposures) records and performs CRUD operations.
 
 ## Setup Instructions
 
